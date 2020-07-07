@@ -1,0 +1,9 @@
+jsonfilereadwrite
+	->css
+	->js
+	->fontawesome
+	->photo(PERMISSIOJN)
+	->index.php 
+	->header.php
+	->footer.php
+	->studentlist.json(PERMISSION)
