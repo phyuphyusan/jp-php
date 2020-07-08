@@ -19,7 +19,7 @@
 		"address" => $address,
 		"profile" => $fullpath
 	);
-	// var_dump($student);
+	var_dump($student);
 
 	//get jsonData from jsonfile
 	$jsonData = file_get_contents('studentlist.json');
@@ -30,6 +30,7 @@
 	$data_arr  = json_decode($jsonData);
 	array_push($data_arr, $student);
 	//convert array to json
+	//var_dump($data_arr);die();
 	$jsonData=json_encode($data_arr, JSON_PRETTY_PRINT);
 	file_put_contents('studentlist.json', $jsonData);
 	header("location:index.php");

@@ -1,37 +1,23 @@
-[
-    {
+{
+    "0": {
         "name": "Phyu Phyu San",
         "email": "phyuphyusan.cu25@gmail.com",
         "gender": "Female",
-        "address": "Hlaing ",
+        "address": " hhhh",
         "profile": "photo\/ff1.jpeg"
     },
-    {
-        "name": "",
-        "email": "",
-        "gender": "Male",
-        "address": " ",
-        "profile": "photo\/"
-    },
-    {
+    "2": {
         "name": "Phyu Phyu San",
         "email": "phyuphyusan.cu25@gmail.com",
         "gender": "Female",
-        "address": "Hlaing",
-        "profile": "photo\/ff1.jpeg"
+        "address": " Hlaing",
+        "profile": "photo\/mix.jpeg"
     },
-    {
-        "name": "Htet",
-        "email": "htet@gmail.com",
-        "gender": "Female",
-        "address": "Yangon",
-        "profile": "photo\/ff1.jpeg"
-    },
-    {
+    "3": {
         "name": "Non",
-        "email": "htet@gmail.com",
+        "email": "non@gmail.com",
         "gender": "Female",
-        "address": "ghhhj ",
+        "address": "MNG ",
         "profile": "photo\/mix.jpeg"
     }
-]
+}
